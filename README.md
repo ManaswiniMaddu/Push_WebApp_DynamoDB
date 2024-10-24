@@ -34,7 +34,6 @@ Working:
 7. The response is sent back through the API to the front-end.
 8. An alert displays the result to the user.
    
-Link to Web App:///Users/manumadd/Downloads/index.html
 Sample Testing Images:
 ![Screenshot 2024-10-24 at 12 35 30 PM](https://github.com/user-attachments/assets/0cb81a38-0423-49ce-a59c-76960e91fd19)
 ![Screenshot 2024-10-24 at 12 36 16 PM](https://github.com/user-attachments/assets/d3604ef5-0625-47d0-8046-9d80e9982ac2)
